@@ -29,6 +29,3 @@ Não há banco de dados. Os dados são carregados de 2 arquivos que contém arra
 - [x] Para efeito de número crescendo eu utilizei o [**React CountUp**](https://www.npmjs.com/package/react-countup).
 
 
-<div align="center">
-  <small>Rodrigo Gonçalves Santana - 2020</small>
-</div># minha-carteira-dashboard
